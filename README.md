@@ -1,1 +1,1 @@
-https://github.com/01tem/ono-tebe-nado-ad
+https://github.com/username/posmotri-v-okno-ad
